@@ -18,5 +18,5 @@ NIM  : E41201809<br/>
 <b>2. Tampilan ketika mengisi pada inputan</b> <br/>
 <img src="https://user-images.githubusercontent.com/47249108/137352580-c40c2d58-2ff5-4b4e-b86e-383b307ad710.jpg" width="260" height="550">
 
-<b>2. Tampilan ketika tombol SEND di klik</b> <br/>
+<b>3. Tampilan ketika tombol SEND di klik</b> <br/>
 <img src="https://user-images.githubusercontent.com/47249108/137352583-5fa746fa-8101-457f-8e32-221ab898ed96.jpg" width="260" height="550">
